@@ -17,6 +17,6 @@
 
 ## Unfinished features
 - Better database (more items and credible source).
-- Daily intake could be edited by the user.
+- Daily intake requirements could be edited by the user.
 - Adding certain food/drink to be favorites.
 - Adding certain health condition so the app could recommend which food/drink to consume and what not to consume.
