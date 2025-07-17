@@ -1,4 +1,6 @@
-# Gudfud <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/7bf63129-42c5-40e0-83de-ff505a76c557" /> - Simple Rule-based app for daily calorie intake & needs tracker
+# Gudfud <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/b1ee3150-2a27-4aed-a46c-5be2baa3b7c8" />
+
+Simple Rule-based app for daily calorie intake & needs tracker.
 
 - Splash screen
 <img width="282" height="422" alt="image" src="https://github.com/user-attachments/assets/b74259a9-4335-465f-9dda-a1629595ae0a" />
